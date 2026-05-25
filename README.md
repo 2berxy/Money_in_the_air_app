@@ -7,6 +7,7 @@
 <img width="250" alt="Image" src="https://github.com/user-attachments/assets/d677353b-b9eb-4208-8cc6-66dabd6041b7" />
 
 npx expo install --fix
+proceed Y
 
 npx expo start 
 
