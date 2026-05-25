@@ -7,9 +7,13 @@
 <img width="250" alt="Image" src="https://github.com/user-attachments/assets/d677353b-b9eb-4208-8cc6-66dabd6041b7" />
 
 npm install --legacy-peer-deps
-
+<br></br>
 npx expo start 
+<br></br>
 wifi
+<br></br>
 or
+<br></br>
 npx expo start --tunnel
+<br></br>
 internet
