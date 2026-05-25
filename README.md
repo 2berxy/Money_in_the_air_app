@@ -6,9 +6,10 @@
 <img width="250" alt="Image" src="https://github.com/user-attachments/assets/f6ab1e15-5877-4bf4-8324-9814cc8553de" />
 <img width="250" alt="Image" src="https://github.com/user-attachments/assets/d677353b-b9eb-4208-8cc6-66dabd6041b7" />
 
-npx expo install --fix
-proceed Y
+npm install --legacy-peer-deps
 
 npx expo start 
-
+wifi
+or
 npx expo start --tunnel
+internet
